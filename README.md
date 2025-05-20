@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Özge Sargın
 
-🎓 3rd-year Information Systems Engineering student at Muğla Sıtkı Koçman University.  
-💡 Passionate about **AI**, **data technologies**, and **automation**.  
-🔍 Focused on building smart, data-driven solutions.  
-📚 Currently learning: Python, ML, and data analysis tools.  
+🎓 3rd-year Information Systems Engineering student at Muğla Sıtkı Koçman University  
+🤖 Passionate about **AI** and **data technologies**
+📊 Focused on building smart, data-driven solutions  
+💻 Currently learning: Python, Machine Learning, and Data Analysis  
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/özge-sargın-279860220](https://www.linkedin.com/in/%C3%B6zge-sarg%C4%B1n-279860220/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Özge%20Sargın-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zge-sarg%C4%B1n-279860220/)
